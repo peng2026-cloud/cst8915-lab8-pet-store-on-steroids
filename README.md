@@ -4,7 +4,7 @@
 |---|---|---|---|
 | Peng Wang | 041107730 | CST8915 Full-stack Cloud-native Development | Fall 2026 |
 
-🎥 [Watch Demo Video](VIDEO_LINK)
+🎥 [Watch Demo Video](https://www.youtube.com/watch?v=0LB91fKwM8U)
 
 ---
 
